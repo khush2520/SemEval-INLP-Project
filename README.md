@@ -1,4 +1,5 @@
-# INLP-Project
+# Mention-level Keyphrase Identification, Classification, and Semantic Relation Extraction 
+## INLP-Project
 ## Directory Structure Overview
 
 This repository contains various approaches and subtasks related to a project. Below is a breakdown of the directory structure:
