@@ -27,3 +27,6 @@ Contains implementations for Subtask 3.
 ### README.md
 
 This file you are currently reading, providing an overview of the directory structure.
+
+### Report.pdf
+File containing the Report with all details regarding our project.
